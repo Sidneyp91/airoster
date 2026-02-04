@@ -1,4 +1,4 @@
-# Airoster — Technical Overview
+# Airoster 
 
 Airoster is built with an offline-first, scalable, and maintainable architecture. The system is designed to provide fast UI, reliable data handling, and long-term flexibility.
 
